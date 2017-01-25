@@ -4,5 +4,9 @@
 https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf
 
 
+* Maths brush up : 
+http://hbpms.blogspot.in/
+topics like probability , calculus(multi-variable too)
+
 Todo : 
 Improve Readme
