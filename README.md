@@ -8,5 +8,9 @@ https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf
 http://hbpms.blogspot.in/
 topics like probability , calculus(multi-variable too)
 
+* Awesome tutorial
+https://metacademy.org/browse
+
+
 Todo : 
 Improve Readme
